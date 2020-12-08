@@ -16,7 +16,7 @@ export default function TodoList() {
           <img
             src={lightModeShapes}
             className="mx-auto mb-5"
-            alt="image of a triangle, square, and shape used as a placeholder."
+            alt="triangle, square, and shape used as a placeholder."
           />
           <h2>Todo: Add some Todos</h2>
         </div>
