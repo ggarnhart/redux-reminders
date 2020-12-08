@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="339px" height="295px" viewBox="0 0 339 295" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Light Mode Shapes</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Light" transform="translate(-135.000000, -51.000000)">
+            <g id="Light-Mode-Shapes" transform="translate(135.000000, 42.000000)">
+                <path d="M247.494127,62.9689212 C280.968259,78.2994416 322.864913,96.2210358 334.958793,125.154694 C347.268635,154.304275 329.775702,194.46592 305.156018,224.047347 C280.320372,253.628773 248.142014,272.629982 213.156147,286.880888 C178.170281,301.131794 140.160944,310.632399 111.653942,298.324798 C83.3629018,286.017197 64.3582336,251.901391 43.6258683,218.001508 C22.6775409,184.101625 -0.214445819,150.201741 0,115.438167 C0.433440596,80.8905155 23.9733137,45.4791726 55.2878238,29.7168065 C86.3863717,13.9544405 125.475519,18.0569741 157.221953,26.2620414 C189.18435,34.6830315 214.235958,47.422478 247.494127,62.9689212 Z" id="Path" fill="#6366F1" fill-rule="nonzero"></path>
+                <g id="Group-3" transform="translate(3.000000, 0.000000)">
+                    <polygon id="Triangle" fill="#818CF8" transform="translate(82.500000, 120.000000) rotate(-8.000000) translate(-82.500000, -120.000000) " points="82.5 9 144 231 21 231"></polygon>
+                    <polygon id="Triangle" fill="#818CF8" transform="translate(87.500000, 119.000000) rotate(-8.000000) translate(-87.500000, -119.000000) " points="87.5 8 149 230 26 230"></polygon>
+                    <polygon id="Triangle" fill="#A5B4FC" transform="translate(76.500000, 120.000000) rotate(-8.000000) translate(-76.500000, -120.000000) " points="76.5 9 138 231 15 231"></polygon>
+                </g>
+                <g id="Group" transform="translate(130.371634, 8.738210)">
+                    <circle id="Oval" fill="#818CF8" transform="translate(80.269331, 73.524559) rotate(13.000000) translate(-80.269331, -73.524559) " cx="80.2693306" cy="73.5245595" r="59.5"></circle>
+                    <circle id="Oval" fill="#818CF8" transform="translate(91.961771, 76.223972) rotate(13.000000) translate(-91.961771, -76.223972) " cx="91.9617714" cy="76.2239721" r="59.5"></circle>
+                    <circle id="Oval" fill="#818CF8" transform="translate(99.756732, 78.023581) rotate(13.000000) translate(-99.756732, -78.023581) " cx="99.7567319" cy="78.0235806" r="59.5"></circle>
+                    <circle id="Oval" fill="#A5B4FC" transform="translate(71.500000, 71.500000) rotate(13.000000) translate(-71.500000, -71.500000) " cx="71.5" cy="71.5" r="59.5"></circle>
+                </g>
+                <g id="Group-2" transform="translate(170.931062, 173.096546)">
+                    <rect id="Rectangle" fill="#818CF8" transform="translate(72.500000, 64.500000) rotate(24.000000) translate(-72.500000, -64.500000) " x="29" y="21" width="87" height="87"></rect>
+                    <rect id="Rectangle" fill="#A5B4FC" transform="translate(57.500000, 57.500000) rotate(24.000000) translate(-57.500000, -57.500000) " x="14" y="14" width="87" height="87"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
