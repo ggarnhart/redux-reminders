@@ -1,10 +1,9 @@
 import React from "react";
 import { useSelector } from "react-redux";
-import darkModeShapes from "../../svgs/darkModeShapes.svg";
 import lightModeShapes from "../../svgs/lightModeShapes.svg";
 import TodoItem from "./TodoItem";
 
-export default function TodoList(props) {
+export default function TodoList() {
   const selectTodos = (state) => state.todos;
   const todos = useSelector(selectTodos);
 
@@ -14,7 +13,11 @@ export default function TodoList(props) {
     return (
       <div className="flex flex-col justify-center align-middle h-half-screen">
         <div>
-          <img src={lightModeShapes} className="mx-auto mb-5" />
+          <img
+            src={lightModeShapes}
+            className="mx-auto mb-5"
+            alt="image of a triangle, square, and shape used as a placeholder."
+          />
           <h2>Todo: Add some Todos</h2>
         </div>
       </div>

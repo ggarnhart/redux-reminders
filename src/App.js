@@ -1,11 +1,9 @@
 import React, { useState, useRef, useEffect } from "react";
 import { HotKeys } from "react-hotkeys";
-import { Counter } from "./features/counter/Counter";
 import "./App.css";
 import TodoInput from "./features/todos/TodoInput";
 import TodoList from "./features/todos/TodoList";
 import KeyboardShortcuts from "./features/todos/KeyboardShortcuts";
-import Trash from "./features/todos/Trash";
 
 function App() {
   const [isFocused, setFocused] = useState(false);
@@ -45,7 +43,6 @@ function App() {
 
         <div className="h-quarter-screen flex flex-col justify-end">
           <KeyboardShortcuts />
-          {/* <Trash trashShown={trashShown} /> */}
         </div>
       </div>
     </HotKeys>

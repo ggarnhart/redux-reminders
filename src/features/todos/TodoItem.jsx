@@ -17,12 +17,6 @@ export default function TodoItem(props) {
           <Trash onClick={() => dispatch(todoDelete(props.id))} />
         </div>
       );
-    } else if (props.deleted === true) {
-      return (
-        <div className="w-full justify-between flex px-10 py-2 items-center bg-red-200 dark:bg-red-700">
-          <p className="">{props.title}</p>
-        </div>
-      );
     } else {
       return (
         <div
